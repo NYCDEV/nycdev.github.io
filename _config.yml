@@ -23,6 +23,7 @@ url: "http://nycdev.github.io" # the base hostname & protocol for your site, e.g
 twitter_username: nycdev
 github_username:  nycdev
 meetup_username:  nycdev
+excerpt_separator: <!--more-->
 
 # Build settings
 markdown: kramdown
