@@ -12,6 +12,8 @@ permalink: /p/notes.html
 
 [NERDDISCO][nerddisco] is an initiative around music visualization in the browser and on LEDs.
 
+[Tristan Perich][tristan-perich] is a tech artist whose work is inspired by the aesthetic simplicity of math, physics and code.
+
 # Internet of Things - IoT
 
 [The Things Network][things-network] is a global community of 19138 people over 89 countries building a global Internet of Things data network, they use a radio frequency protocol called LoRaWAN and Bluetooth 4.2.
@@ -36,3 +38,4 @@ permalink: /p/notes.html
 [ppk]: https://twitter.com/ppk
 [tjbot]: https://ibmtjbot.github.io/
 [nodered]: https://nodered.org/
+[tristan-perich]: http://www.tristanperich.com/
