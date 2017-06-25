@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: NYCDEV
-email: nycdevio@gmail.com
+email: contact@nycdev.io
 description: > # this means to ignore newlines until "baseurl:"
   Creative, tech and social meetup in NYC. A place for fun, good, interesting
   tech projects. All work and no play makes Jack a doll boy.
