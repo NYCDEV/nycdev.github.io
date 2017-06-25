@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  "Hello World"
+title:  "Hello NYCDEV"
 date:   2017-06-23 18:16:34 -0400
 categories: jekyll update
 ---
-Checkout the [NYCDEV Meetup][nycdev-meetup].
+
+We recently created NYCDEV and we will soon have our kick-off party.
+
+In the meantime, checkout the [NYCDEV Meetup][nycdev-meetup].
 
 [nycdev-meetup]: https://meetup.com/NYCDEV
