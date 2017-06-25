@@ -18,6 +18,10 @@ permalink: /p/notes.html
 
 [The Lora Alliance][lora-alliance] is an open, non-profit association of members collaborating together to drive the LoRa protocol, [LoRaWAN][lorawan].
 
+[TJBot][tjbot] is a do-it-yourself template to learn, experiment, and explore AI with IBM Watson. TJBot is available either as a laser-cut cartboard or a 3d print design.
+
+[Node-RED][nodered] is a browser-based editor on top of Node.js for wiring together flows composed of nodes for hardware devices, APIs and online services that can be deployed to the Node.js runtime in a single-click.
+
 # JavaScript
 
 [Quirksmode.org][quirksmode] is a source for browser compatibility information by [Peter-Paul Koch][ppk].
@@ -30,3 +34,5 @@ permalink: /p/notes.html
 [nerddisco]: https://github.com/NERDDISCO
 [quirksmode]: https://www.quirksmode.org/
 [ppk]: https://twitter.com/ppk
+[tjbot]: https://ibmtjbot.github.io/
+[nodered]: https://nodered.org/
