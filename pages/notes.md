@@ -14,9 +14,13 @@ permalink: /p/notes.html
 
 [Tristan Perich][tristan-perich] is a tech artist whose work is inspired by the aesthetic simplicity of math, physics and code.
 
+# Media
+
+[Made in NY Media Center by IFP][nymediacenter] is a collaborative workspace and community designed to support and connect media and tech entrepreneurs, innovators, and artists with industry resources, events, mentorship, and educational opportunities.
+
 # Virtual Reality and Augmented Reality
 
-[NYC VR University][nycvru] is a volunteer based VR Developer Group dedicated to educating and engaging the community, specifically focused on the Unity platform, with best practices for Google Cardboard, Oculus Rift, and other VR hardware. They host topics on developing, publishing, marketing and monetizing Unity VR Apps. 
+[NYC VR University][nycvru] is a volunteer based VR Developer Group dedicated to educating and engaging the community, specifically focused on the Unity platform, with best practices for Google Cardboard, Oculus Rift, and other VR hardware. They host topics on developing, publishing, marketing and monetizing Unity VR Apps.
 
 # Internet of Things - IoT
 
@@ -69,3 +73,4 @@ permalink: /p/notes.html
 [iot-central]: https://www.meetup.com/NYCIOT/
 [iot-ny]: https://www.meetup.com/IoT-NY/
 [nycvru]: https://www.meetup.com/NYCVRU/
+[nymediacenter]: http://nymediacenter.com/
