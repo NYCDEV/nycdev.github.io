@@ -4,6 +4,12 @@ title: Notes
 permalink: /p/notes.html
 ---
 
+# Coding
+
+[CodeTriage][codetriage] lists open source projects that you can contribute to. You can subscribe to repos and receive a different open issue in your inbox every day.
+
+[Open Source Friday][opensourcefriday] lets you find an open source project to contribute to at all levels, across projects and design, documentation, operations and code. 
+
 # Creative
 
 ## Music
@@ -54,6 +60,8 @@ permalink: /p/notes.html
 
 [Quirksmode.org][quirksmode] is a source for browser compatibility information by [Peter-Paul Koch][ppk].
 
+[Nodeschool.io][nodeschool] are open source workshops that teach web software skills, you can do them on your own or at a workshop nearby.
+
 <!--References-->
 [things-network]: https://www.thethingsnetwork.org/
 [lora-alliance]: https://www.lora-alliance.org/
@@ -74,3 +82,6 @@ permalink: /p/notes.html
 [iot-ny]: https://www.meetup.com/IoT-NY/
 [nycvru]: https://www.meetup.com/NYCVRU/
 [nymediacenter]: http://nymediacenter.com/
+[nodeschool]: https://nodeschool.io/
+[codetriage]: https://www.codetriage.com/
+[opensourcefriday]: https://opensourcefriday.com/
